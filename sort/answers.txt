@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: compares pairs of adjacent values one at a time and swaps them if they are in the incorrect order.
+
+sort2 uses: Merge sort
+
+How do you know?: It exhibits recursive behavior and involves dividing the list into halves before merging them back in order.
+
+sort3 uses: Selection Sort
+
+How do you know?: selecting the smallest element each time and moving it to its correct location.
